@@ -1,6 +1,7 @@
 ### Hi there, I'm Jorge! 👋
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<!-- <img align='right' src='https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif' height='200"'> -->
+ <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='250"'>
 
 🌊 I'm a data-driven marine scientist with a passion for analyzing biological data and contributing to open science. 
 
