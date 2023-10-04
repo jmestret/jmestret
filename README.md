@@ -4,10 +4,11 @@
  <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='250"'>
 
 🌊 I'm a data-driven marine scientist with a passion for analyzing biological data and contributing to open science. 
-
-🌱 I'm constantly jumping from project to project, trying to answer biological questions. 
+<!--
+🌱 I'm constantly jumping from project to project, trying to answer scientific questions. 
 
 🌈 My repositories may seem like a rainbow puke, a colorful mix of unconnected but intriguing scientific projects that reflect my interests.
+-->
 
 <!--
 **jmestret/jmestret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
