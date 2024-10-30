@@ -9,7 +9,7 @@
    - Modeling and machine learning
    - Inferential and predictive analysis
    - Reporting and publishing
-- 💻 Currently developing user-friendly tools for species distribution modeling (*GLOSSA* Shiny app) and analyzing global fishing spatio-temporal patterns to inform policy and conservation decisions.
+- 💻 Currently developing user-friendly tools for species distribution modeling ([GLOSSA Shiny app](https://imares-group.github.io/glossa/)) and analyzing global fishing spatio-temporal patterns to inform policy and conservation decisions.
 - 📫 How to reach me: via my [personal website](https://jmestret.github.io/).
 
 <!--
