@@ -3,7 +3,7 @@
 <!-- <img align='right' src='https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif' height='200"'> -->
  <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='250"'>
 
-- 🌊 I'm a biostatistician with a passion for analyzing marine ecological data and contributing to open science.
+- 🌊 I'm a PhD student in Statistics and Optimization with a background in Marine Science. I enjoy analyzing marine ecological data and contributing to open science.
    - Data management and processing
    - Exploratory data analysis and visualization
    - Modeling and machine learning
